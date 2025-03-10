@@ -1,1 +1,1 @@
-# MM-GHiNet
+# MM-GHiNet: Multi-Modal Graph Hierarchical Network
